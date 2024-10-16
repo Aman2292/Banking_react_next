@@ -1,7 +1,8 @@
 import AuthForm from '@/components/AuthForm'
 import React from 'react'
 
-export const Signup= () => {
+export const Signup= async() => {
+
   return (
     <section className="flex-center size-full max-sm:px-6">
       
